@@ -26,8 +26,8 @@ if(heroi[1]<1000){
                     if(heroi[1] > 9000 && heroi[1] < 10001){
                         console.log("O Herói de nome " + heroi[0] + " está no nível de IMORTAL");
                     }else{
-                        if(heroi[1] > 1000 ){
-                            console.log("O Herói de nome " + heroi[0] + " está no nível de IMORTAL");
+                        if(heroi[1] > 10000 ){
+                            console.log("O Herói de nome " + heroi[0] + " está no nível de RADIANTE");
                         }
                     }
                 }
